@@ -1,17 +1,9 @@
 # Metodologia-pesquisa
 
 ## Problema
-- Dificil conciliação de acessos de sistemas em empresas 
+Ausência de mecanismos digitais para promoção de segurança física. Em uma era de grande disponibilidade técnologica existe uma escassez de recursos para promover segurança para o invivíduo.
 
 ## Motivação
- 
-- Obtenção de acessos gerados com muita lentidão em empresas grandes
-- Workflow para a obtenção de acessos confuso
-- Dificil comunicação com quem libera o acesso
-- Acessos normalmente separados de forma confusa  
+Escassez de tecnologia que promova segurança do indíviduo, fazendo com que pessoas fiquem muito dependente de procedimentos obsoletos para que consigam segurança caso o indivíduo esteja em uma situação de emergência.
 
 ## Proposta de Solução
-
-- Distribuir acessos de acordo com o perfil do usuário
-- Automatizar liberação de acessos 
-
