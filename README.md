@@ -20,6 +20,9 @@ Uma forma de implentar esse tipo de recurso é utilizando tecnologia de processa
 
 ## Fontes
 https://g1.globo.com/monitor-da-violencia/noticia/2020/08/21/mesmo-com-quarentena-brasil-tem-alta-de-6percent-no-numero-de-assassinatos-no-1o-semestre.ghtml
+
 https://www.gazetadopovo.com.br/ideias/brasil-nao-soluciona-nem-10-dos-seus-homicidios-d726kw8ykpwh6xm41zakgzoue/
+
 http://g1.globo.com/jornal-da-globo/noticia/2013/10/sao-paulo-e-cidade-com-o-maior-numero-de-cameras-do-brasil.html
+
 
